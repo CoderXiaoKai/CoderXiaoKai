@@ -1,7 +1,5 @@
 # 🚧 Under Construction | CoderXiaoKai
 
-**English | 中文**
-
 Welcome to my GitHub homepage 👋
 This site is currently under construction and new content will be coming soon.
 
